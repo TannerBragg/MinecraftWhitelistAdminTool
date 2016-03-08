@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Whitelist_Administration_Tool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WhitelistPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:/Shares/Whitelists/</Value>
+    </Setting>
+    <Setting Name="DatabasePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:/WhiteListAdministrationTool/WhitelistAdministrationTool.sqlite</Value>
+    </Setting>
+    <Setting Name="JsonWhitelistName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">whitelist.json</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
